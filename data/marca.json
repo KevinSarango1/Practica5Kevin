@@ -1,0 +1,166 @@
+{
+    "Controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "Modelo.Marca",
+                "id": 1,
+                "nombre": "Adidas",
+                "calidad": "Medium"
+            },
+            "sig": {
+                "info": {
+                    "@class": "Modelo.Marca",
+                    "id": 2,
+                    "nombre": "Balenciaga",
+                    "calidad": "Premium"
+                },
+                "sig": {
+                    "info": {
+                        "@class": "Modelo.Marca",
+                        "id": 3,
+                        "nombre": "Gucci",
+                        "calidad": "Premium"
+                    },
+                    "sig": {
+                        "info": {
+                            "@class": "Modelo.Marca",
+                            "id": 4,
+                            "nombre": "Nike",
+                            "calidad": "Low"
+                        },
+                        "sig": {
+                            "info": {
+                                "@class": "Modelo.Marca",
+                                "id": 5,
+                                "nombre": "Nike",
+                                "calidad": "Medium"
+                            },
+                            "sig": {
+                                "info": {
+                                    "@class": "Modelo.Marca",
+                                    "id": 6,
+                                    "nombre": "Balenciaga",
+                                    "calidad": "Low"
+                                },
+                                "sig": {
+                                    "info": {
+                                        "@class": "Modelo.Marca",
+                                        "id": 7,
+                                        "nombre": "Gucci",
+                                        "calidad": "Medium"
+                                    },
+                                    "sig": {
+                                        "info": {
+                                            "@class": "Modelo.Marca",
+                                            "id": 8,
+                                            "nombre": "Adidas",
+                                            "calidad": "Premium"
+                                        },
+                                        "sig": {
+                                            "info": {
+                                                "@class": "Modelo.Marca",
+                                                "id": 9,
+                                                "nombre": "Nike",
+                                                "calidad": "Medium"
+                                            },
+                                            "sig": {
+                                                "info": {
+                                                    "@class": "Modelo.Marca",
+                                                    "id": 10,
+                                                    "nombre": "Versage",
+                                                    "calidad": "Premium"
+                                                },
+                                                "sig": {
+                                                    "info": {
+                                                        "@class": "Modelo.Marca",
+                                                        "id": 11,
+                                                        "nombre": "Balenciaga",
+                                                        "calidad": "Premium"
+                                                    },
+                                                    "sig": {
+                                                        "info": {
+                                                            "@class": "Modelo.Marca",
+                                                            "id": 12,
+                                                            "nombre": "Gucci",
+                                                            "calidad": "Low"
+                                                        },
+                                                        "sig": {
+                                                            "info": {
+                                                                "@class": "Modelo.Marca",
+                                                                "id": 13,
+                                                                "nombre": "Versage",
+                                                                "calidad": "Medium"
+                                                            },
+                                                            "sig": {
+                                                                "info": {
+                                                                    "@class": "Modelo.Marca",
+                                                                    "id": 14,
+                                                                    "nombre": "Gucci",
+                                                                    "calidad": "Medium"
+                                                                },
+                                                                "sig": {
+                                                                    "info": {
+                                                                        "@class": "Modelo.Marca",
+                                                                        "id": 15,
+                                                                        "nombre": "Adidas",
+                                                                        "calidad": "Premium"
+                                                                    },
+                                                                    "sig": {
+                                                                        "info": {
+                                                                            "@class": "Modelo.Marca",
+                                                                            "id": 16,
+                                                                            "nombre": "Balenciaga",
+                                                                            "calidad": "Medium"
+                                                                        },
+                                                                        "sig": {
+                                                                            "info": {
+                                                                                "@class": "Modelo.Marca",
+                                                                                "id": 17,
+                                                                                "nombre": "Versage",
+                                                                                "calidad": "Low"
+                                                                            },
+                                                                            "sig": {
+                                                                                "info": {
+                                                                                    "@class": "Modelo.Marca",
+                                                                                    "id": 18,
+                                                                                    "nombre": "Balenciaga",
+                                                                                    "calidad": "Premium"
+                                                                                },
+                                                                                "sig": {
+                                                                                    "info": {
+                                                                                        "@class": "Modelo.Marca",
+                                                                                        "id": 19,
+                                                                                        "nombre": "Versage",
+                                                                                        "calidad": "Medium"
+                                                                                    },
+                                                                                    "sig": {
+                                                                                        "info": {
+                                                                                            "@class": "Modelo.Marca",
+                                                                                            "id": 20,
+                                                                                            "nombre": "Adidas",
+                                                                                            "calidad": "Medium"
+                                                                                        
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "size": 20
+    }
+}

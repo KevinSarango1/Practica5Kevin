@@ -1,0 +1,205 @@
+{
+    "Controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "Modelo.Ropa",
+                "id": 1,
+                "prenda": "Gorra",
+                "color": "Blanca",
+                "estado": "Usada",
+                "marca_Id": 1
+            },
+            "sig": {
+                "info": {
+                    "@class": "Modelo.Ropa",
+                    "id": 2,
+                    "prenda": "medias",
+                    "color": "gris",
+                    "estado": "Nueva",
+                    "marca_Id": 2
+                },
+                "sig": {
+                    "info": {
+                        "@class": "Modelo.Ropa",
+                        "id": 3,
+                        "prenda": "Zapatos",
+                        "color": "Cafe",
+                        "estado": "Nueva",
+                        "marca_Id": 3
+                    },
+                    "sig": {
+                        "info": {
+                            "@class": "Modelo.Ropa",
+                            "id": 4,
+                            "prenda": "camiseta",
+                            "color": "Roja",
+                            "estado": "Usada",
+                            "marca_Id": 4
+                        },
+                        "sig": {
+                            "info": {
+                                "@class": "Modelo.Ropa",
+                                "id": 5,
+                                "prenda": "Bandas",
+                                "color": "naranja",
+                                "estado": "Nueva",
+                                "marca_Id": 5
+                            },
+                            "sig": {
+                                "info": {
+                                    "@class": "Modelo.Ropa",
+                                    "id": 6,
+                                    "prenda": "pantalon",
+                                    "color": "azul",
+                                    "estado": "Usada",
+                                    "marca_Id": 6
+                                },
+                                "sig": {
+                                    "info": {
+                                        "@class": "Modelo.Ropa",
+                                        "id": 7,
+                                        "prenda": "Bermuda",
+                                        "color": "Verde",
+                                        "estado": "Usada",
+                                        "marca_Id": 7
+                                    },
+                                    "sig": {
+                                        "info": {
+                                            "@class": "Modelo.Ropa",
+                                            "id": 8,
+                                            "prenda": "Pantaloneta",
+                                            "color": "blanca",
+                                            "estado": "Nueva",
+                                            "marca_Id": 8
+                                        },
+                                        "sig": {
+                                            "info": {
+                                                "@class": "Modelo.Ropa",
+                                                "id": 9,
+                                                "prenda": "Gafas",
+                                                "color": "Negro",
+                                                "estado": "Usada",
+                                                "marca_Id": 9
+                                            },
+                                            "sig": {
+                                                "info": {
+                                                    "@class": "Modelo.Ropa",
+                                                    "id": 10,
+                                                    "prenda": "chompa",
+                                                    "color": "Morada",
+                                                    "estado": "Nueva",
+                                                    "marca_Id": 10
+                                                },
+                                                "sig": {
+                                                    "info": {
+                                                        "@class": "Modelo.Ropa",
+                                                        "id": 11,
+                                                        "prenda": "Vestido",
+                                                        "color": "Rosado",
+                                                        "estado": "Nueva",
+                                                        "marca_Id": 11
+                                                    },
+                                                    "sig": {
+                                                        "info": {
+                                                            "@class": "Modelo.Ropa",
+                                                            "id": 12,
+                                                            "prenda": "bolso",
+                                                            "color": "dorado",
+                                                            "estado": "Usada",
+                                                            "marca_Id": 12
+                                                        },
+                                                        "sig": {
+                                                            "info": {
+                                                                "@class": "Modelo.Ropa",
+                                                                "id": 13,
+                                                                "prenda": "Smoking",
+                                                                "color": "Beich",
+                                                                "estado": "Nueva",
+                                                                "marca_Id": 13
+                                                            },
+                                                            "sig": {
+                                                                "info": {
+                                                                    "@class": "Modelo.Ropa",
+                                                                    "id": 14,
+                                                                    "prenda": "lentes",
+                                                                    "color": "azul",
+                                                                    "estado": "Usada",
+                                                                    "marca_Id": 14
+                                                                },
+                                                                "sig": {
+                                                                    "info": {
+                                                                        "@class": "Modelo.Ropa",
+                                                                        "id": 15,
+                                                                        "prenda": "mochila",
+                                                                        "color": "amarillo",
+                                                                        "estado": "Nueva",
+                                                                        "marca_Id": 15
+                                                                    },
+                                                                    "sig": {
+                                                                        "info": {
+                                                                            "@class": "Modelo.Ropa",
+                                                                            "id": 16,
+                                                                            "prenda": "Tacones",
+                                                                            "color": "Rojos",
+                                                                            "estado": "Nueva",
+                                                                            "marca_Id": 16
+                                                                        },
+                                                                        "sig": {
+                                                                            "info": {
+                                                                                "@class": "Modelo.Ropa",
+                                                                                "id": 17,
+                                                                                "prenda": "chamarra",
+                                                                                "color": "violeta",
+                                                                                "estado": "Usada",
+                                                                                "marca_Id": 17
+                                                                            },
+                                                                            "sig": {
+                                                                                "info": {
+                                                                                    "@class": "Modelo.Ropa",
+                                                                                    "id": 18,
+                                                                                    "prenda": "sombrero",
+                                                                                    "color": "magenta",
+                                                                                    "estado": "Nueva",
+                                                                                    "marca_Id": 18
+                                                                                },
+                                                                                "sig": {
+                                                                                    "info": {
+                                                                                        "@class": "Modelo.Ropa",
+                                                                                        "id": 19,
+                                                                                        "prenda": "aretes",
+                                                                                        "color": "dorado",
+                                                                                        "estado": "Nueva",
+                                                                                        "marca_Id": 19
+                                                                                    },
+                                                                                    "sig": {
+                                                                                        "info": {
+                                                                                            "@class": "Modelo.Ropa",
+                                                                                            "id": 20,
+                                                                                            "prenda": "short",
+                                                                                            "color": "negro",
+                                                                                            "estado": "Usada",
+                                                                                            "marca_Id": 20
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "size": 20
+    }
+}
